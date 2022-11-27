@@ -12,7 +12,7 @@ class Synox {
         this.job = "developer",
         this.weight = "78",
         this.age = "17",
-        this.discord.tag = "Syanox#0671"
+        this.discord.tag = "Synox#0671"
     };
 }
 
