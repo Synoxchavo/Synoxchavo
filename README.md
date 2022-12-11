@@ -10,9 +10,9 @@ class Synox {
         this.length = "183",
         this.type = "human",
         this.job = "developer",
-        this.weight = "78",
-        this.age = "17",
-        this.discord.tag = "Synox#0671"
+        this.weight = "73",
+        this.age = "18",
+        this.discord.tag = "Synox#6710"
     };
 }
 
